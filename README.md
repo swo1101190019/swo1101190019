@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...
-an educational organization of small to medium size.
+The company I am currently employed by an educational organization of small to medium size.
 
 ## 🌱 I’m currently learning ...
 - Nuxt3
