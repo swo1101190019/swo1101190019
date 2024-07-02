@@ -1,4 +1,4 @@
-## Hi there 👋
+## ChenXing的github个人首页 👋
 
 <!--
 **swo1101190019/swo1101190019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔭 I’m currently working on ...
+an educational organization of small to medium size.
+
+## 🌱 I’m currently learning ...
+- Nuxt3
+- HarmonyOS NEXT
+
